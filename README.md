@@ -17,12 +17,7 @@
 ---
 
 ## 📌 Featured Projects  
-
-🔹 [**Smart Productivity App**](https://github.com/AnujDevpura/ToDo)  
-AI-powered task and focus manager analyzing behavioral patterns, with real-time insights via Firebase + Python backend.  
-
-🔹 [**Verifi.AI**](https://github.com/AnujDevpura/Verifi.AI)  
-Full-stack fake news & phishing detection app – achieved **97% accuracy** using TF-IDF and Naive Bayes.  
+T_T...
 
 ---
 
