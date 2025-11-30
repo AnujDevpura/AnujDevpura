@@ -1,36 +1,49 @@
-# Hi, I'm Anuj Devpura 👋  
+# Hi, I'm Anuj Devpura 👋
 
-🎓 **Computer Science and Engineering (Data Science) @ RVCE, Bengaluru**  
-📊 Passionate about **Data Science, Machine Learning, and AI-powered systems**  
-🚀 Building projects that blend **AI + Productivity + Real-world Impact**  
+## About Me
+
+I'm a Computer Science and Engineering student specializing in Data Science at RVCE, Bengaluru. I'm passionate about developing AI-powered systems that create real-world impact through the intersection of data science, machine learning, and innovative applications.
+
+## 🛠️ Technical Skills
+
+**Programming Languages**  
+Python • C++ • SQL
+
+**Machine Learning & AI**  
+PyTorch • TensorFlow • Scikit-learn • LangChain • Hugging Face Transformers • LlamaIndex
+
+**Data Visualization**  
+Matplotlib • Seaborn • Plotly
+
+**Web Development & Deployment**  
+Flask • FastAPI • Streamlit • Gradio
+
+**Databases**  
+MySQL • PostgreSQL
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnujDevpura&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujDevpura&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+## 🌐 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-devpura)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnujDevpura)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DevpuraAnuj/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujdevpura2005@gmail.com)
+
+</div>
 
 ---
 
-## 🛠️ Skills & Tools  
-
-**Languages**: Python, C++, SQL  
-**ML/AI**: PyTorch, TensorFlow, Scikit-learn, LangChain, Hugging Face Transformers, LlamaIndex<br>
-**Data Viz**: Matplotlib, Seaborn, Plotly<br>
-**Web & Apps**: Flask, FastAPI, Streamlit, Gradio<br>
-**Databases**: MySQL, PostgreSQL
-
----
-
-## 📌 Featured Projects  
-T_T...
-
----
-
-## 📊 GitHub Stats  
-
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnujDevpura&show_icons=true&theme=default&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnujDevpura&layout=compact&theme=default&hide_border=true)  
-
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-devpura)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/AnujDevpura)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/DevpuraAnuj/)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:anujdevpura2005@gmail.com)  
+<div align="center">
+  <i>Open to collaboration on AI/ML projects and research opportunities</i>
+</div>
