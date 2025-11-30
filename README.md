@@ -24,16 +24,15 @@ MySQL • PostgreSQL
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujDevpura&theme=default&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujDevpura&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnujDevpura&theme=default" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnujDevpura&theme=dark" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnujDevpura&theme=default" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnujDevpura&theme=default" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnujDevpura&theme=dark" alt="Top Languages by Repo" />
 </div>
 
 ## 🌐 Let's Connect
