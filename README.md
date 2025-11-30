@@ -9,9 +9,9 @@
 ## 🛠️ Skills & Tools  
 
 **Languages**: Python, C++, SQL  
-**ML/AI**: PyTorch, TensorFlow, Scikit-learn, LangChain, Hugging Face Transformers, LlamaIndex
-**Data Viz**: Matplotlib, Seaborn, Plotly
-**Web & Apps**: Flask, FastAPI, Streamlit, Gradio  
+**ML/AI**: PyTorch, TensorFlow, Scikit-learn, LangChain, Hugging Face Transformers, LlamaIndex<br>
+**Data Viz**: Matplotlib, Seaborn, Plotly<br>
+**Web & Apps**: Flask, FastAPI, Streamlit, Gradio<br>
 **Databases**: MySQL, PostgreSQL
 
 ---
