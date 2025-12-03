@@ -24,10 +24,6 @@ MySQL • PostgreSQL
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujDevpura&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnujDevpura&theme=dark" alt="GitHub Profile Summary" />
 </div>
 
@@ -40,7 +36,6 @@ MySQL • PostgreSQL
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-devpura)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnujDevpura)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DevpuraAnuj/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujdevpura2005@gmail.com)
 
