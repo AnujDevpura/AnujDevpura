@@ -10,16 +10,10 @@ I'm a Computer Science and Engineering student specializing in Data Science at R
 Python • C++ • SQL
 
 **Machine Learning & AI**  
-PyTorch • TensorFlow • Scikit-learn • LangChain • Hugging Face Transformers • LlamaIndex
+PyTorch • TensorFlow • Scikit-learn • OpenCV • LangChain • Transformers • LlamaIndex
 
-**Data Visualization**  
-Matplotlib • Seaborn • Plotly
-
-**Web Development & Deployment**  
-Flask • FastAPI • Streamlit • Gradio
-
-**Databases**  
-MySQL • PostgreSQL
+**Data & Backend Engineering**
+FastAPI • REST APIs • PostgreSQL • MySQL
 
 ## 📊 GitHub Statistics
 
