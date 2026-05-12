@@ -92,23 +92,6 @@ I enjoy combining strong engineering practices with practical AI applications �
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnujDevpura&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- Optional: Uncomment if activity graph renders consistently -->
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AnujDevpura&theme=tokyo-night" 
-    alt="Activity Graph"
-  />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced Deep Learning Architectures
